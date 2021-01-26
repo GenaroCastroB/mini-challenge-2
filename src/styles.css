@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+div.pokeDataContainer {
+  background: rgb(150, 149, 149);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+  border-radius: 5px;
+  margin: 50px 20px 20px 20px;
+  padding: 1rem;
+  text-align: center;
+  color: white;
+  min-width: 10rem;
+}
+
+a.poke-video-btn {
+  display: block;
+  background: rgb(255, 0, 76);
+  color: white;
+  padding: 15px 20px;
+  margin: 20px 0;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.9);
+  text-decoration: none;
+}
